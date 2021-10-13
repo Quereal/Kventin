@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Phenomena;
+    font-weight: 700;
+    src: url(fonts\Phenomena-Bold.otf)
+}
+
+@font-face {
+    font-family: Phenomena;
+    font-weight: 800;
+    src: url(fonts\Phenomena-ExtraBold.otf)
+}
+
+@font-face {
+    font-family: Phenomena;
+    font-weight: 200;
+    src: url(fonts\Phenomena-Light.otf)
+}
+
+@font-face {
+    font-family: Phenomena;
+    font-weight: 400;
+    src: url(fonts\Phenomena-Regular.otf)
+}

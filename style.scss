@@ -1,0 +1,15 @@
+$dark-purple: #3B2E7F;
+$purple: #4C3BA6;
+$yellow: #FDBE29;
+$red: #DD4926;
+$light-grey: #EFEFEF;
+
+.container {
+    max-width: 1180px;
+}
+
+.header {
+    width: 100%;
+    height: 108px;
+    background-color: $dark-purple;
+}
